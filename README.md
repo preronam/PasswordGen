@@ -10,5 +10,8 @@ The following project is intended to generate a secure password based on user-se
 To design the Password Generator, the following processes were implemented:
 
 A.Html with basic mark-up of the page was created
+
 B.The mark-up was styled using an external stylesheet
+
 C.Javascript was used to run the actual generation of the password 
+
