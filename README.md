@@ -1,4 +1,4 @@
-# PasswordGenerator
+# Password Generator
 The following project is intended to generate a secure password based on user-selected criteria. Users will be allowed to generate a password that is:
 
 1. Between 8 to 128 characters in length 
